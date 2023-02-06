@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "decimal_to_binary.h": "c",
+    "stdio.h": "c"
+  }
+}
